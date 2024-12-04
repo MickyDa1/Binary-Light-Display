@@ -25,11 +25,6 @@ def write_read():
 
     return data
 
-#while True:
-#    num = input("Enter a number: ")
-#    value = write_read(num)
-#    print(value)
-
 def test():
     print(userInput.get())
     print("Test - Normal Print Successful")
